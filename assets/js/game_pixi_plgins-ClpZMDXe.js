@@ -1,4 +1,4 @@
-import{F as h,f as _,s as k,h as O,O as ze,g as E,i as F,r as N,T as Pe,S as Fe}from"./game_pixi-BtvCmBUP.js";var Me=`attribute vec2 aVertexPosition;
+import{F as h,f as _,s as k,h as O,O as ze,g as E,i as F,r as N,T as Pe,S as Fe}from"./game_pixi-CW65XjlF.js";var Me=`attribute vec2 aVertexPosition;
 attribute vec2 aTextureCoord;
 
 uniform mat3 projectionMatrix;
